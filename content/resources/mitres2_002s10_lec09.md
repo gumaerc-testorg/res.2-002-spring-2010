@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/bcd0b29485aac0977e83d260d21c6a8d_MITRES2_002S10_lec09.pdf
+file: /media/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/bcd0b29485aac0977e83d260d21c6a8d_MITRES2_002S10_lec09.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: MITRES2_002S10_lec09.pdf
 uid: bcd0b294-85aa-c097-7e83-d260d21c6a8d

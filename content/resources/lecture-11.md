@@ -2,14 +2,33 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Linear Analysis
+parent_type: SupplementalResourceSection
+related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec11))
+
+
+  **Readings**
+
+
+  Section 9.3
+
+
+  **Examples**
+
+
+  Problems 9.6-9.11, 9.14'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 11: Mode Superposition Analysis; Time History'
 uid: 5ff838fc-3db9-32e6-4f8b-7a9f1d0b6f87
 video_files:
   archive_url: http://www.archive.org/download/MITRES2_002S10linear/MITRES2_002S10linear_lec11_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/db435a24052b5a6b9d43d8dc4688599f_pSdxdfBnu0I.vtt
+  video_captions_file: /courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/db435a24052b5a6b9d43d8dc4688599f_pSdxdfBnu0I.vtt
   video_thumbnail_file: https://img.youtube.com/vi/pSdxdfBnu0I/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/4495d7ea4ecfd3365ced01646aab2942_pSdxdfBnu0I.pdf
+  video_transcript_file: /courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/4495d7ea4ecfd3365ced01646aab2942_pSdxdfBnu0I.pdf
 video_metadata:
   youtube_id: pSdxdfBnu0I
 ---

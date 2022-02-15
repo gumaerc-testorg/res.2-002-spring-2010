@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Nonlinear Analysis
 uid: 4f0f5719-a469-9634-caf5-43161dea55c0
 videos:

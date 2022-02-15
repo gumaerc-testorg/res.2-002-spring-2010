@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Linear Analysis
 uid: 846cbebc-9e52-f111-dfbb-3e143d5f5a5a
 videos:

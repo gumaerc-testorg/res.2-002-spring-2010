@@ -2,14 +2,27 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Nonlinear Analysis
+parent_type: SupplementalResourceSection
+related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec12-1))
+
+
+  **Readings**
+
+
+  Sections 6.1, 6.8, 8.4'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 12: Demonstrative Example Solutions in Static Analysis'
 uid: b1619055-e330-b43a-77d3-15d378a69ff0
 video_files:
   archive_url: http://www.archive.org/download/MITRES2_002S10nonlinear/MITRES2_002S10nonlinear_lec12_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/f09c7b5bfbbd5236b4c39fdfb9b3a7cf_4M-ijbL1gsk.vtt
+  video_captions_file: /courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/f09c7b5bfbbd5236b4c39fdfb9b3a7cf_4M-ijbL1gsk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/4M-ijbL1gsk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/2e7389a4bc45c5c85d5ebed6ec7a1887_4M-ijbL1gsk.pdf
+  video_transcript_file: /courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/2e7389a4bc45c5c85d5ebed6ec7a1887_4M-ijbL1gsk.pdf
 video_metadata:
   youtube_id: 4M-ijbL1gsk
 ---

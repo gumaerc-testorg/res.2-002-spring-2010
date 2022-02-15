@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/1d4254dc02a7ad49b526e78e0856e935_ejZtBwLUE3Y.srt
+file: /media/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/1d4254dc02a7ad49b526e78e0856e935_ejZtBwLUE3Y.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 1d4254dc-02a7-ad49-b526-e78e0856e935
