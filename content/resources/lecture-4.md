@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -22,6 +23,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec04))
   Problems 4.15-4.28'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Generalized Coordinate Finite Element Models'
 uid: 6360641d-9e71-0302-b828-89ec3b55ccef
 video_files:

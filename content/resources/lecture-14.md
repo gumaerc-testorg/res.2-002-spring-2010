@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -21,6 +22,7 @@ related_resources_text: "Study Guide ([PDF - 1.1MB](resources/mitres2_002s10_lec
   \ _Computers & Structures_ 12 (September 1980): 309-318."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Solution of Nonlinear Dynamic Response II'
 uid: 90fda2df-ae64-acb4-5eeb-c7e7f184139e
 video_files:

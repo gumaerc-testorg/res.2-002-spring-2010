@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -16,6 +17,7 @@ related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec04-1))\n
   \ _Computers & Structures_ 6 (April 1976): 81-92."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Total Lagrangian Formulation - Incremental Analysis'
 uid: 5e93da0d-c3d9-f4ca-f682-ab1fd1872549
 video_files:

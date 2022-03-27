@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -22,6 +23,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec12))
   Problems 11.1-11.27'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Solution Methods for Frequencies and Mode Shapes'
 uid: 1b541d7f-788b-d648-9008-d6c9dcf472c8
 video_files:

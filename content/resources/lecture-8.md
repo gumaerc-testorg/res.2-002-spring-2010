@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -22,6 +23,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec08))
   Problems 5.33-5.44'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Numerical Integrations, Modeling Considerations'
 uid: 40234ace-5d9a-a1eb-2f64-e41763693660
 video_files:

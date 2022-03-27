@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -22,6 +23,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec01))
   Problems 3.1-3.14, 3.31'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Some Basic Concepts of Engineering Analysis'
 uid: 69cf09d1-c495-6a71-9d5e-3ecdadcc31fa
 video_files:

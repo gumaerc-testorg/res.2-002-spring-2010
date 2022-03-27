@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -16,6 +17,7 @@ related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec05-1))\n
   \ _Computers & Structures_ 6 (April 1976): 81-92."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Updated Lagrangian Formulation - Incremental Analysis'
 uid: 4b3b931a-94d6-3e80-029d-ab254ded3ecb
 video_files:

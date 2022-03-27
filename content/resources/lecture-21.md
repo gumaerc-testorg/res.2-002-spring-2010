@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -16,6 +17,7 @@ related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec21))\n\n
   \ _Engineering Computations_ 3 (1986): 178-191."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Demonstration Using ADINA - Linear Analysis'
 uid: 455aed3f-0799-b81e-4ca9-5b475e86c371
 video_files:

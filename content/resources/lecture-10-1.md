@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -14,6 +15,7 @@ related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec10-1))\n
   \ _Computer Methods In Applied Mechanics and Engineering_ 22 (April 1980): 59-85."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Solution of Nonlinear Static FE Equations I'
 uid: c2a4bd9a-fab9-be40-a7ef-dc44f85c157f
 video_files:

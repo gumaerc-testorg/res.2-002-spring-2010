@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -22,6 +23,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec11))
   Problems 9.6-9.11, 9.14'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Mode Superposition Analysis; Time History'
 uid: 5ff838fc-3db9-32e6-4f8b-7a9f1d0b6f87
 video_files:

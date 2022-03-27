@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -32,6 +33,7 @@ related_resources_text: "Study Guide ([PDF - 1.2MB](resources/mitres2_002s10_lec
   \ _Computers & Structures_ 89 (February 2011): 285-301."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Beam, Plate, and Shell Elements II'
 uid: e32fce4e-a537-1574-b0e2-8d3410ea1f25
 video_files:

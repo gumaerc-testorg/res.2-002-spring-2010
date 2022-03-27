@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linear Analysis
 parent_type: SupplementalResourceSection
+parent_uid: 846cbebc-9e52-f111-dfbb-3e143d5f5a5a
 resourcetype: Document
 title: MITRES2_002S10_linear.pdf
 uid: dab1968e-6c87-110a-eb83-d0f4e17d75d5

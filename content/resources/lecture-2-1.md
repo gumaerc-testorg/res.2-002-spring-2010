@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -17,6 +18,7 @@ related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec02-1))\n
   \ 3 (1986): 178-191."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Basic Considerations in Nonlinear Analysis'
 uid: ff2d9254-1cd9-fcb7-e608-5de4ef7ae7bc
 video_files:

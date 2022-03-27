@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
+parent_uid: 4f0f5719-a469-9634-caf5-43161dea55c0
 resourcetype: Document
 title: MITRES2_002S10_toc.pdf
 uid: 2d0c809d-9e87-2a93-e12f-99f27e58eb43

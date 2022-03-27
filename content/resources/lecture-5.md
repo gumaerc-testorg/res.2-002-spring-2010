@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -22,6 +23,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec05))
   Problems 12.1-12.4, Example Program STAP'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Implementation of Methods in Computer Programs'
 uid: fe17ba29-152d-285f-45cc-e081bc2cea9c
 video_files:

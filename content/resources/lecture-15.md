@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -22,6 +23,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec15))
   Problems 6.22-6.25'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Elastic Constitutive Relations in T. L. Formulation'
 uid: 7fbf4829-97d1-33c2-832f-b514b5f374cc
 video_files:

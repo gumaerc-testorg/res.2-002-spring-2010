@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -32,6 +33,7 @@ related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec17))\n\n
   \ 159-196."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Modeling of Elasto-Plastic and Creep Response I'
 uid: 60926cff-1748-aeb1-6862-a548e4ea71e4
 video_files:

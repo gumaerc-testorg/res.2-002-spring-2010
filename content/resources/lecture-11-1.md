@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -13,6 +14,7 @@ related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec11-1))\n
   \ _Computers & Structures_ 17 (1983): 871-879."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Solution of Nonlinear Static FE Equations II'
 uid: 1891a81c-0cee-b46d-740f-b126fd862ee6
 video_files:

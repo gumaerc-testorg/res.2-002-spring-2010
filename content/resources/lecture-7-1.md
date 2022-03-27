@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -22,6 +23,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec07-1))
   Problem 6.18'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: 2D & 3D Solid Elements; Plane Stress/Strain Conditions'
 uid: 8df19e65-352d-cd18-fe7e-5163c88907c2
 video_files:

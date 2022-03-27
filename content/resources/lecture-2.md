@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -22,6 +23,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec02))
   Problems 3.15-3.31'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Analysis of Continuous Systems'
 uid: 61c5cfbb-a88a-d483-1075-ce6f2bca1f02
 video_files:

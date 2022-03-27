@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -22,6 +23,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec16))
   Problems 6.22-6.24'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Elastic Constitutive Relations in U. L. Formulation'
 uid: 9a643d50-dc03-c362-6c9f-e1737ea66dac
 video_files:

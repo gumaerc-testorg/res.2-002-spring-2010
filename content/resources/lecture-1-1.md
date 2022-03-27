@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -14,6 +15,7 @@ related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec01-1))\n
   \ _Computers & Structures_ 12 (September 1980): 309-318."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction to Nonlinear Analysis'
 uid: 9fa3b699-97f7-1224-9321-f699381c1c0d
 video_files:
