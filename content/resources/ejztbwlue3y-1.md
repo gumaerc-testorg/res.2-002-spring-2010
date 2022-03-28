@@ -5,6 +5,7 @@ file: /media/courses/res-2-002-finite-element-procedures-for-solids-and-structur
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: 65c22acd-3085-9cf6-9775-a2fd180cd40b

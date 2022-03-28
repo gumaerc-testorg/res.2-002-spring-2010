@@ -5,6 +5,7 @@ file: /media/courses/res-2-002-finite-element-procedures-for-solids-and-structur
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: MITRES2_002S10_lec20.pdf
 uid: 88005034-d8e8-7475-fde6-594c6c8335d0

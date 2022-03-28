@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec18))\n\n**Readings**\n\
   \nSections 6.6.3, 6.6.4\n\n**References**\n\nSnyder, M. D., and K. J. Bathe. \u201C\
   [A Solution Procedure for Thermo-Elastic-Plastic and Creep Problems.](http://dx.doi.org/10.1016/0029-5493(81)90032-7)\u201D\
@@ -30,7 +31,6 @@ related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec18))\n\n
   \ 159-196."
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 18: Modeling of Elasto-Plastic and Creep Response II'
 uid: 82ec90ab-4952-79bd-6d5c-6bc2fb6f6e04
 video_files:

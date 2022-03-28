@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Linear Analysis
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec04))
 
 
@@ -23,7 +24,6 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec04))
   Problems 4.15-4.28'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 4: Generalized Coordinate Finite Element Models'
 uid: 6360641d-9e71-0302-b828-89ec3b55ccef
 video_files:

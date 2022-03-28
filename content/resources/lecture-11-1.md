@@ -1,20 +1,20 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec11-1))\n\n\
   **Readings**\n\nSections 6.1, 6.8, 8.4\n\n**References**\n\nBathe, K. J., and E.\
   \ Dvorkin. \u201C[On the Automatic Solution of Nonlinear Finite Element Equations.](http://dx.doi.org/10.1016/0045-7949(83)90101-3)\u201D\
   \ _Computers & Structures_ 17 (1983): 871-879."
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 11: Solution of Nonlinear Static FE Equations II'
 uid: 1891a81c-0cee-b46d-740f-b126fd862ee6
 video_files:

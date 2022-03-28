@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec12-1))
 
 
@@ -17,7 +18,6 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec12-1))
   Sections 6.1, 6.8, 8.4'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 12: Demonstrative Example Solutions in Static Analysis'
 uid: b1619055-e330-b43a-77d3-15d378a69ff0
 video_files:

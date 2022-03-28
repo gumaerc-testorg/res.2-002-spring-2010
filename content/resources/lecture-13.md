@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec13))
 
 
@@ -17,7 +18,6 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec13))
   Sections 9.1, 9.5'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 13: Solution of Nonlinear Dynamic Response I'
 uid: 4df1a4df-a2e5-425c-ba01-9dc30b42cf42
 video_files:

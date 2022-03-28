@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec09-1))
 
 
@@ -23,7 +24,6 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec09-1))
   Problems 6.16, 6.17'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 9: 2-Noded Truss Element - Total Lagrangian Formulation'
 uid: ed1aaf99-22b3-f44c-9e22-a9a489a01f5d
 video_files:

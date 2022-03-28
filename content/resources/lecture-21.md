@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec21))\n\n**References**\n\
   \nBathe, K. J. \u201C[Finite Elements in CAD and ADINA.](http://dx.doi.org/10.1016/0029-5493(86)90120-2)\u201D\
   \ _Nuclear Engineering and Design_ 98 (December 1986): 57-67.\n\nUser Manuals, Verification\
@@ -17,7 +18,6 @@ related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec21))\n\n
   \ _Engineering Computations_ 3 (1986): 178-191."
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 21: Demonstration Using ADINA - Linear Analysis'
 uid: 455aed3f-0799-b81e-4ca9-5b475e86c371
 video_files:

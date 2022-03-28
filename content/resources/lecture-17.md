@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec17))\n\n**Readings**\n\
   \nSections 6.6.3, 6.6.4\n\n**Examples**\n\nProblem 6.26\n\n**References**\n\nBathe,\
   \ K. J., et al. \u201C[On Some Current Procedures and Difficulties in Finite Element\
@@ -33,7 +34,6 @@ related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec17))\n\n
   \ 159-196."
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 17: Modeling of Elasto-Plastic and Creep Response I'
 uid: 60926cff-1748-aeb1-6862-a548e4ea71e4
 video_files:

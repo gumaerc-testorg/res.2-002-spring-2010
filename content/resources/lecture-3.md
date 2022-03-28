@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Linear Analysis
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec03))
 
 
@@ -23,7 +24,6 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec03))
   Problems 4.1-4.14'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 3: The Displacement-Based Finite Element Method'
 uid: 5d897a7c-bde4-2d83-1822-1a600e5271cf
 video_files:

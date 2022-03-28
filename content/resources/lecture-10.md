@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Linear Analysis
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec10))
 
 
@@ -23,7 +24,6 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec10))
   Problems 9.1-9.5, 9.12-9.14'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 10: Solution of Equilibrium Equations in Dynamic Analysis'
 uid: 5368d231-7d07-b1a5-3b27-e6617f2639c1
 video_files:
