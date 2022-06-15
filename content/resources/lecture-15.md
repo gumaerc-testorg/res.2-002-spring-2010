@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec15))
+related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec15))
 
 
   **Readings**
@@ -24,6 +24,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec15))
   Problems 6.22-6.25'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Elastic Constitutive Relations in T. L. Formulation'
 uid: 7fbf4829-97d1-33c2-832f-b514b5f374cc
 video_files:
@@ -47,3 +48,6 @@ video_metadata:
 *   Example analysis: Solution of a rubber sheet with a hole
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: "Study Guide ([PDF - 1.2MB](resources/mitres2_002s10_lec20))\n\
+related_resources_text: "Study Guide ([PDF - 1.2MB](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec20))\n\
   \n**Readings**\n\nSection 6.5\n\n**Examples**\n\nProblems 6.20, 6.21\n\n**References**\n\
   \nBathe, K. J., and A. Chaudhary. \u201C[On the Displacement Formulation of Torsion\
   \ of Shafts with Rectangular Cross-Sections.](http://dx.doi.org/10.1002/nme.1620181010)\u201D\
@@ -34,6 +34,7 @@ related_resources_text: "Study Guide ([PDF - 1.2MB](resources/mitres2_002s10_lec
   \ _Computers & Structures_ 89 (February 2011): 285-301."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Beam, Plate, and Shell Elements II'
 uid: e32fce4e-a537-1574-b0e2-8d3410ea1f25
 video_files:
@@ -68,3 +69,6 @@ video_metadata:
 *   Example analysis: Collapse analysis of a cylindrical shell
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+

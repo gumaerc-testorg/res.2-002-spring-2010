@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec07-1))
+related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec07-1))
 
 
   **Readings**
@@ -24,6 +24,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec07-1))
   Problem 6.18'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: 2D & 3D Solid Elements; Plane Stress/Strain Conditions'
 uid: 8df19e65-352d-cd18-fe7e-5163c88907c2
 video_files:
@@ -46,3 +47,6 @@ video_metadata:
 *   Example of 4-node two-dimensional element, details of matrices used
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+

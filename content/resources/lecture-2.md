@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Linear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec02))
+related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec02))
 
 
   **Readings**
@@ -24,6 +24,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec02))
   Problems 3.15-3.31'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Analysis of Continuous Systems'
 uid: 61c5cfbb-a88a-d483-1075-ce6f2bca1f02
 video_files:
@@ -49,3 +50,6 @@ video_metadata:
 *   Example analysis of a nonuniform bar, solution accuracy, introduction to the finite element method
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+

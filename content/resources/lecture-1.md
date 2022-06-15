@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Linear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec01))
+related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec01))
 
 
   **Readings**
@@ -24,6 +24,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec01))
   Problems 3.1-3.14, 3.31'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Some Basic Concepts of Engineering Analysis'
 uid: 69cf09d1-c495-6a71-9d5e-3ecdadcc31fa
 video_files:
@@ -45,3 +46,6 @@ video_metadata:
 *   Variational formulation
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+

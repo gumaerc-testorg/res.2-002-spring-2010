@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,15 +9,15 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec18))\n\n**Readings**\n\
-  \nSections 6.6.3, 6.6.4\n\n**References**\n\nSnyder, M. D., and K. J. Bathe. \u201C\
-  [A Solution Procedure for Thermo-Elastic-Plastic and Creep Problems.](http://dx.doi.org/10.1016/0029-5493(81)90032-7)\u201D\
-  \ _Nuclear Engineering and Design_ 64 (March 1981): 49-80.\n\nRammerstorfer, F.\
-  \ G., et al. \u201C[On Thermo-Elastic-Plastic Analysis of Heat-Treatment Processes\
-  \ Including Creep and Phase Changes.](http://dx.doi.org/10.1016/0045-7949(81)90040-7)\u201D\
-  \ _Computers & Structures_ 13 (October-December 1981): 771-779.\n\nKojic, M., and\
-  \ K. J. Bathe. \u201C[The 'Effective-Stress-Function' Algorithm for Thermo-Elasto-Plasticity\
+related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec18))\n\
+  \n**Readings**\n\nSections 6.6.3, 6.6.4\n\n**References**\n\nSnyder, M. D., and\
+  \ K. J. Bathe. \u201C[A Solution Procedure for Thermo-Elastic-Plastic and Creep\
+  \ Problems.](http://dx.doi.org/10.1016/0029-5493(81)90032-7)\u201D _Nuclear Engineering\
+  \ and Design_ 64 (March 1981): 49-80.\n\nRammerstorfer, F. G., et al. \u201C[On\
+  \ Thermo-Elastic-Plastic Analysis of Heat-Treatment Processes Including Creep and\
+  \ Phase Changes.](http://dx.doi.org/10.1016/0045-7949(81)90040-7)\u201D _Computers\
+  \ & Structures_ 13 (October-December 1981): 771-779.\n\nKojic, M., and K. J. Bathe.\
+  \ \u201C[The 'Effective-Stress-Function' Algorithm for Thermo-Elasto-Plasticity\
   \ and Creep.](http://dx.doi.org/10.1002/nme.1620240808)\u201D _International Journal\
   \ for Numerical Methods in Engineering_ 24 (August 1987): 1509-1532.\n\nKojic, M.,\
   \ and K. J. Bathe. \u201C[Thermo-Elastic-Plastic and Creep Analysis of Shell Structures.](http://dx.doi.org/10.1016/0045-7949(87)90243-4)\u201D\
@@ -31,6 +32,7 @@ related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec18))\n\n
   \ 159-196."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Modeling of Elasto-Plastic and Creep Response II'
 uid: 82ec90ab-4952-79bd-6d5c-6bc2fb6f6e04
 video_files:
@@ -55,3 +57,6 @@ video_metadata:
 *   Example analysis: Analysis of cylinder subjected to heat treatment
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+

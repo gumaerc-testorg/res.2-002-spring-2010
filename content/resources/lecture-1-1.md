@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,14 +9,14 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec01-1))\n\n\
-  **Readings**\n\nSection 6.1\n\n**Examples**\n\nProblems 6.1-6.4\n\n**References**\n\
+related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec01-1))\n\
+  \n**Readings**\n\nSection 6.1\n\n**Examples**\n\nProblems 6.1-6.4\n\n**References**\n\
   \nIshizaki, T., and K. J. Bathe. \u201C[On Finite Element Large Displacement and\
   \ Elastic-Plastic Dynamic Analysis of Shell Structures.](http://dx.doi.org/10.1016/0045-7949(80)90029-2)\u201D\
   \ _Computers & Structures_ 12 (September 1980): 309-318."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction to Nonlinear Analysis'
 uid: 9fa3b699-97f7-1224-9321-f699381c1c0d
 video_files:
@@ -45,3 +46,6 @@ video_metadata:
 *   A demonstrative static and dynamic nonlinear analysis of a shell
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+

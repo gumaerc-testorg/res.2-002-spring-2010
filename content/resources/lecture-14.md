@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: "Study Guide ([PDF - 1.1MB](resources/mitres2_002s10_lec14))\n\
+related_resources_text: "Study Guide ([PDF - 1.1MB](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec14))\n\
   \n**Readings**\n\nSections 9.1, 9.5\n\n**References**\n\nBathe, K. J. \u201CFinite\
   \ Element Formulation, Modeling, and Solution of Nonlinear Dynamic Problems.\u201D\
   \ In Parter, S. V. _Numerical Methods for Partial Differential Equations: Proceedings\
@@ -23,6 +23,7 @@ related_resources_text: "Study Guide ([PDF - 1.1MB](resources/mitres2_002s10_lec
   \ _Computers & Structures_ 12 (September 1980): 309-318."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Solution of Nonlinear Dynamic Response II'
 uid: 90fda2df-ae64-acb4-5eeb-c7e7f184139e
 video_files:
@@ -49,3 +50,6 @@ video_metadata:
 *   Example analysis: Solution of fluid-structure interaction problem
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+

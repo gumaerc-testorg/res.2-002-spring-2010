@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,9 +9,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec05-1))\n\n\
-  **Readings**\n\nSections 6.2.3, 6.2.4\n\n**References**\n\nBathe, K. J., E. Ramm,\
+related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec05-1))\n\
+  \n**Readings**\n\nSections 6.2.3, 6.2.4\n\n**References**\n\nBathe, K. J., E. Ramm,\
   \ and E. L. Wilson. \u201C[Finite Element Formulations for Large Deformation Dynamic\
   \ Analysis.](http://dx.doi.org/10.1002/nme.1620090207)\u201D _International Journal\
   \ for Numerical Methods in Engineering_ 9 (1975): 353-386.\n\nBathe, K. J., and\
@@ -18,6 +18,7 @@ related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec05-1))\n
   \ _Computers & Structures_ 6 (April 1976): 81-92."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Updated Lagrangian Formulation - Incremental Analysis'
 uid: 4b3b931a-94d6-3e80-029d-ab254ded3ecb
 video_files:
@@ -41,3 +42,6 @@ video_metadata:
 *   Comparison to total Lagrangian formulation
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+

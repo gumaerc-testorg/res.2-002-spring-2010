@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Linear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec08))
+related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec08))
 
 
   **Readings**
@@ -24,6 +24,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec08))
   Problems 5.33-5.44'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Numerical Integrations, Modeling Considerations'
 uid: 40234ace-5d9a-a1eb-2f64-e41763693660
 video_files:
@@ -47,3 +48,6 @@ video_metadata:
 *   Modeling considerations using the elements
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Linear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec06))
+related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec06))
 
 
   **Readings**
@@ -24,6 +24,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec06))
   Problems 5.1-5.22'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Formulation and Calculation of Isoparametric Models'
 uid: 33e219ed-c7fe-41d8-821b-1e7f6ecbf042
 video_files:
@@ -44,3 +45,6 @@ video_metadata:
 *   Various examples; shifting of internal nodes to achieve stress singularities for fracture mechanics analysis
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+

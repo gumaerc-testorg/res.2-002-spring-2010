@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec03-1))
+related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec03-1))
 
 
   **Readings**
@@ -24,6 +24,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec03-1))
   Problems 6.5-6.15'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Lagrangian Continuum Mechanics Variables for Analysis'
 uid: b8d08b96-ef28-293e-47ac-39226097929e
 video_files:
@@ -49,3 +50,6 @@ video_metadata:
 *   Examples demonstrating the properties of the continuum mechanics variables
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+

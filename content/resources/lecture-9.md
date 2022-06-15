@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Linear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec09))
+related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec09))
 
 
   **Readings**
@@ -24,6 +24,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec09))
   Problems 8.1-8.22'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Solution of Equilibrium Equations in Static Analysis'
 uid: eca3a829-2382-f62e-5956-9cc50f11cf1e
 video_files:
@@ -50,3 +51,6 @@ video_metadata:
 *   Physical interpretation of the basic operations used
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+

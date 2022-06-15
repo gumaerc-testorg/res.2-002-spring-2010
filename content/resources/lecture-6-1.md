@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec06-1))
+related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec06-1))
 
 
   **Readings**
@@ -18,6 +18,7 @@ related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec06-1))
   Sections 6.3.1, 6.3.2, 6.4'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Formulation of Finite Element Matrices'
 uid: 242d8e81-6cf1-d58f-71b3-c3482d98e1d2
 video_files:
@@ -43,3 +44,6 @@ video_metadata:
 *   Example analysis: A numerical experiment to test for correct element rigid body behavior
 
 **Instructor:** Klaus-Jürgen Bathe
+
+
+
