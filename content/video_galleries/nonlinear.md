@@ -1,9 +1,10 @@
 ---
 content_type: video_gallery
+description: ''
+draft: false
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-parent_uid: null
 title: Nonlinear Analysis
 uid: 4f0f5719-a469-9634-caf5-43161dea55c0
 videos:
@@ -32,33 +33,28 @@ videos:
   - 13baa295-00ee-9a5b-4bf7-f37cd952482c
   website: res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010
 ---
-
-Description
------------
+## Description
 
 This video series presents effective finite element procedures for the nonlinear analysis of solids and structures. The finite element method is the ideal tool for solving complex static and dynamic problems in engineering and the sciences. Nonlinear analysis models kinematic and/or materially nonlinear effects.
 
-In these videos, Professor K. J. Bathe, a researcher of world renown in the field of finite element analysis, builds upon the concepts developed in his previous video course on {{% resource_link "846cbebc-9e52-f111-dfbb-3e143d5f5a5a" "Linear Analysis" %}}. General nonlinear analysis techniques are presented by emphasizing physical concepts. The mathematical foundation of nonlinear finite element techniques is given in light of these physical requirements. A wide range of questions in engineering and the sciences can be addressed with these methods. Upon completion of the course, participants will be able to simulate and analyze problems such as:
+In these videos, Professor K. J. Bathe, a researcher of world renown in the field of finite element analysis, builds upon the concepts developed in his previous video course on {{% resource_link 846cbebc-9e52-f111-dfbb-3e143d5f5a5a "Linear Analysis" %}}. General nonlinear analysis techniques are presented by emphasizing physical concepts. The mathematical foundation of nonlinear finite element techniques is given in light of these physical requirements. A wide range of questions in engineering and the sciences can be addressed with these methods. Upon completion of the course, participants will be able to simulate and analyze problems such as:
 
-*   Large displacement collapse or buckling of structures
-*   Progressive damage of structural components under high-temperature conditions
-*   Stresses and strains of structures under severe earthquake loads
-*   Accident conditions due to sudden overloads
-*   Construction and repair of structures
-*   Stability of underground openings
+- Large displacement collapse or buckling of structures
+- Progressive damage of structural components under high-temperature conditions
+- Stresses and strains of structures under severe earthquake loads
+- Accident conditions due to sudden overloads
+- Construction and repair of structures
+- Stability of underground openings
 
-Prerequisites
--------------
+## Prerequisites
 
-An undergraduate degree in engineering or science, and completion of the previous video course on {{% resource_link "846cbebc-9e52-f111-dfbb-3e143d5f5a5a" "Linear Analysis" %}}.
+An undergraduate degree in engineering or science, and completion of the previous video course on {{% resource_link 846cbebc-9e52-f111-dfbb-3e143d5f5a5a "Linear Analysis" %}}.
 
-Textbook
---------
+## Textbook
 
 Bathe, K. J. _Finite Element Procedures_. 2nd ed. Klaus-Jürgen Bathe, 2014. ISBN: 9780979004957.
 
-Related Resources
------------------
+## Related Resources
 
 Prof. Bathe currently teaches two courses at MIT focused on finite element analysis, both available on MIT OpenCourseWare:
 
@@ -74,18 +70,15 @@ Bucalem, M. L., and K. J. Bathe. _The Mechanics of Solids and Structures: Hierar
 
 Kojić, M., and K. J. Bathe. _Inelastic Analysis of Solids and Structures._ New York, NY: Springer, 2005. ISBN: 9783540227939.
 
-About ADINA
------------
+## About ADINA
 
 This video course presents general theory and use of finite element procedures. However, the course refers in many parts to ADINA, a finite element program for general state-of-the-art linear and nonlinear, static and dynamic, and multi-physics analyses. Please see [ADINA R&D](http://www.adina.com/) for more information.
 
-Study Guide Components
-----------------------
+## Study Guide Components
 
-*   Complete Study Guide ({{% resource_link "b57be322-4dc7-f863-d00a-a58a35c58768" "PDF 1 of 2 - 7.3MB" %}}) ({{% resource_link "e55f2c75-fd9a-8f86-32f8-5c662b184167" "PDF 2 of 2 - 7.2MB" %}})
-*   Preface ({{% resource_link "4d09a266-6317-8621-637f-545d14a55984" "PDF" %}})
-*   Table of Contents ({{% resource_link "2d0c809d-9e87-2a93-e12f-99f27e58eb43" "PDF" %}})
-*   Glossary ({{% resource_link "ffbdf5d0-fd22-16b4-fcb8-dd9fdab29b6e" "PDF" %}})
+- Complete Study Guide ({{% resource_link b57be322-4dc7-f863-d00a-a58a35c58768 "PDF 1 of 2 - 7.3MB" %}}) ({{% resource_link e55f2c75-fd9a-8f86-32f8-5c662b184167 "PDF 2 of 2 - 7.2MB" %}})
+- Preface ({{% resource_link 4d09a266-6317-8621-637f-545d14a55984 "PDF" %}})
+- Table of Contents ({{% resource_link 2d0c809d-9e87-2a93-e12f-99f27e58eb43 "PDF" %}})
+- Glossary ({{% resource_link ffbdf5d0-fd22-16b4-fcb8-dd9fdab29b6e "PDF" %}})
 
 {{< video-gallery "4f0f5719-a469-9634-caf5-43161dea55c0" >}}
-

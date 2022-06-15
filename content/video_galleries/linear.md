@@ -1,9 +1,10 @@
 ---
 content_type: video_gallery
+description: ''
+draft: false
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-parent_uid: null
 title: Linear Analysis
 uid: 846cbebc-9e52-f111-dfbb-3e143d5f5a5a
 videos:
@@ -22,26 +23,21 @@ videos:
   - 1b541d7f-788b-d648-9008-d6c9dcf472c8
   website: res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010
 ---
-
-Description
------------
+## Description
 
 This video series is a comprehensive course of study that presents effective finite element procedures for the linear analysis of solids and structures. The finite element method is the ideal tool for solving static and dynamic problems in engineering and the sciences. Linear analysis assumes linear elastic behavior and infinitesimally small displacements and strains. To establish appropriate models for analysis, it is necessary to become familiar with the finite element methods available.
 
-In these videos, Professor K. J. Bathe, a researcher of world renown in the field of finite element analysis, teaches the basic principles used for effective finite element analysis, describes the general assumptions, and discusses the implementation of finite element procedures. Upon completion of this video course, a second course covering {{% resource_link "4f0f5719-a469-9634-caf5-43161dea55c0" "Nonlinear Analysis" %}} is available.
+In these videos, Professor K. J. Bathe, a researcher of world renown in the field of finite element analysis, teaches the basic principles used for effective finite element analysis, describes the general assumptions, and discusses the implementation of finite element procedures. Upon completion of this video course, a second course covering {{% resource_link 4f0f5719-a469-9634-caf5-43161dea55c0 "Nonlinear Analysis" %}} is available.
 
-Prerequisites
--------------
+## Prerequisites
 
 An undergraduate degree in engineering or science.
 
-Textbook
---------
+## Textbook
 
 Bathe, K. J. _Finite Element Procedures_. 2nd ed. Klaus-Jürgen Bathe, 2014. ISBN: 9780979004957.
 
-Related Resources
------------------
+## Related Resources
 
 Prof. Bathe currently teaches two courses at MIT focused on finite element analysis, both available on MIT OpenCourseWare:
 
@@ -55,17 +51,14 @@ Chapelle, D., and K. J. Bathe. _The Finite Element Analysis of Shells: Fundament
 
 Bucalem, M. L., and K. J. Bathe. _The Mechanics of Solids and Structures: Hierarchical Modeling and the Finite Element Solution._ New York, NY: Springer, 2011. ISBN: 9783540263319.
 
-About ADINA
------------
+## About ADINA
 
 This video course presents general theory and use of finite element procedures. However, the course refers in many parts to ADINA, a finite element program for general state-of-the-art linear and nonlinear, static and dynamic, and multi-physics analyses. Please see [ADINA R&D](http://www.adina.com/) for more information.
 
-Study Guide Components
-----------------------
+## Study Guide Components
 
-*   Complete Study Guide ({{% resource_link "dab1968e-6c87-110a-eb83-d0f4e17d75d5" "PDF - 4.1MB" %}})
-*   Preface ({{% resource_link "aa8bef01-77a6-9ac7-b3ee-18b21966321d" "PDF" %}})
-*   Table of Contents ({{% resource_link "72776553-1369-daf6-6052-58de0cc8d6a1" "PDF" %}})
+- Complete Study Guide ({{% resource_link dab1968e-6c87-110a-eb83-d0f4e17d75d5 "PDF - 4.1MB" %}})
+- Preface ({{% resource_link aa8bef01-77a6-9ac7-b3ee-18b21966321d "PDF" %}})
+- Table of Contents ({{% resource_link 72776553-1369-daf6-6052-58de0cc8d6a1 "PDF" %}})
 
 {{< video-gallery "846cbebc-9e52-f111-dfbb-3e143d5f5a5a" >}}
-
