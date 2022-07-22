@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -47,6 +48,4 @@ video_metadata:
 *   Example of 4-node two-dimensional element, details of matrices used
 
 **Instructor:** Klaus-Jürgen Bathe
-
-
 

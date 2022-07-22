@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -44,6 +45,4 @@ video_metadata:
 *   Discussion of mesh evaluation by studying stress jumps along element boundaries and pressure band plots
 
 **Instructor:** Klaus-Jürgen Bathe
-
-
 

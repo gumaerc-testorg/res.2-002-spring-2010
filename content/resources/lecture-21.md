@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -41,6 +42,4 @@ video_metadata:
 *   Study and evaluation of results using plots of stresses, stress jumps, and pressure bands
 
 **Instructor:** Klaus-Jürgen Bathe
-
-
 

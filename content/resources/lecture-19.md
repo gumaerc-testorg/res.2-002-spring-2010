@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -64,6 +65,4 @@ video_metadata:
 *   Shell transition elements, modeling of transition zones between solids and shells, shell intersections
 
 **Instructor:** Klaus-Jürgen Bathe
-
-
 
