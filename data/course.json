@@ -35,7 +35,7 @@
   "course_title": "Finite Element Procedures for Solids and Structures",
   "course_description": "Finite element analysis is now widely used for solving complex static and dynamic problems encountered in engineering and the sciences. In these two video courses, [Professor K. J. Bathe](http://en.wikipedia.org/wiki/Klaus-J%C3%BCrgen_Bathe), a researcher of world renown in the field of finite element analysis, teaches the basic principles used for effective finite element analysis, describes the general assumptions, and discusses the implementation of finite element procedures for linear and nonlinear analyses.\n\nThese videos were produced in 1982 and 1986 by the MIT Center for Advanced Engineering Study.\n",
   "department_numbers": [
-    "RES"
+    "2"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.2-002",
@@ -46,6 +46,6 @@
   "learning_resource_types": [
     "Lecture Videos"
   ],
-  "site_uid": "0fa90acf-2015-461e-a005-94cd5a3cc51e",
+  "site_uid": "07b304a3-0b81-4772-a103-c091255614bd",
   "title": "Course Metadata"
 }
