@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/227ee83ea6fe5fc0404f962a3b5d2a2a_o2Vlt1avXCs.pdf
+file_size: 79611
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
