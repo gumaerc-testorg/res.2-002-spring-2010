@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/e36cc95d0f9544a27b9800106a1aa3a2_MITRES2_002S10_lec07.pdf
+file: /ol-ocw-studio-app/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/e36cc95d0f9544a27b9800106a1aa3a2_MITRES2_002S10_lec07.pdf
 file_size: 401962
 file_type: application/pdf
 learning_resource_types: []
