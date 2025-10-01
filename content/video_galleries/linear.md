@@ -53,7 +53,7 @@ Bucalem, M. L., and K. J. Bathe. _The Mechanics of Solids and Structures: Hierar
 
 ## About ADINA
 
-This video course presents general theory and use of finite element procedures. However, the course refers in many parts to ADINA, a finite element program for general state-of-the-art linear and nonlinear, static and dynamic, and multi-physics analyses. Please see [ADINA R&D](http://www.adina.com/) for more information.
+This video course presents general theory and use of finite element procedures. However, the course refers in many parts to ADINA, a finite element program for general state-of-the-art linear and nonlinear, static and dynamic, and multi-physics analyses. Please see {{% resource_link "08bcc9e2-4c30-4822-af07-964ebaf66263" "ADINA R&D" %}} for more information.
 
 ## Study Guide Components
 
