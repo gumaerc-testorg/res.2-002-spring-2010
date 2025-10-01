@@ -13,9 +13,9 @@ parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
 related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec01-1))\n\
   \n**Readings**\n\nSection 6.1\n\n**Examples**\n\nProblems 6.1-6.4\n\n**References**\n\
-  \nIshizaki, T., and K. J. Bathe. \u201C[On Finite Element Large Displacement and\
-  \ Elastic-Plastic Dynamic Analysis of Shell Structures.](http://dx.doi.org/10.1016/0045-7949(80)90029-2)\u201D\
-  \ _Computers & Structures_ 12 (September 1980): 309-318."
+  \nIshizaki, T., and K. J. Bathe. \u201C{{% resource_link \"6887350c-8047-4724-b445-0ffcebd4edeb\"\
+  \ \"On Finite Element Large Displacement and Elastic-Plastic Dynamic Analysis of\
+  \ Shell Structures.\" %}}\u201D _Computers & Structures_ 12 (September 1980): 309-318."
 resource_index_text: ''
 resourcetype: Video
 start_time: ''

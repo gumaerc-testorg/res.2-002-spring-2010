@@ -17,12 +17,12 @@ related_resources_text: "Study Guide ([PDF - 1.1MB](/courses/res-2-002-finite-el
   \ In Parter, S. V. _Numerical Methods for Partial Differential Equations: Proceedings\
   \ of an Advanced Seminar._ Mathematics Research Center, University of Wisconsin-Madison.\
   \ New York, NY: Academic Press, 1979. ISBN: 978-0125460507.\n\nBathe, K. J., and\
-  \ S. Gracewski. \u201C[On Nonlinear Dynamic Analysis Using Substructuring and Mode\
-  \ Superposition.](http://dx.doi.org/10.1016/0045-7949(81)90032-8)\u201D _Computers\
-  \ & Structures_ 13 (October-December 1981): 699-707.\n\nIshizaki, T., and K. J.\
-  \ Bathe. \u201C[On Finite Element Large Displacement and Elastic-Plastic Dynamic\
-  \ Analysis of Shell Structures.](http://dx.doi.org/10.1016/0045-7949(80)90029-2)\u201D\
-  \ _Computers & Structures_ 12 (September 1980): 309-318."
+  \ S. Gracewski. \u201C{{% resource_link \"5a2981c7-9b88-4cda-a05e-2502c5e49674\"\
+  \ \"On Nonlinear Dynamic Analysis Using Substructuring and Mode Superposition.\"\
+  \ %}}\u201D _Computers & Structures_ 13 (October-December 1981): 699-707.\n\nIshizaki,\
+  \ T., and K. J. Bathe. \u201C{{% resource_link \"6887350c-8047-4724-b445-0ffcebd4edeb\"\
+  \ \"On Finite Element Large Displacement and Elastic-Plastic Dynamic Analysis of\
+  \ Shell Structures.\" %}}\u201D _Computers & Structures_ 12 (September 1980): 309-318."
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
