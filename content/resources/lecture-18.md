@@ -13,25 +13,26 @@ parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
 related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec18))\n\
   \n**Readings**\n\nSections 6.6.3, 6.6.4\n\n**References**\n\nSnyder, M. D., and\
-  \ K. J. Bathe. \u201C[A Solution Procedure for Thermo-Elastic-Plastic and Creep\
-  \ Problems.](http://dx.doi.org/10.1016/0029-5493(81)90032-7)\u201D _Nuclear Engineering\
-  \ and Design_ 64 (March 1981): 49-80.\n\nRammerstorfer, F. G., et al. \u201C[On\
-  \ Thermo-Elastic-Plastic Analysis of Heat-Treatment Processes Including Creep and\
-  \ Phase Changes.](http://dx.doi.org/10.1016/0045-7949(81)90040-7)\u201D _Computers\
-  \ & Structures_ 13 (October-December 1981): 771-779.\n\nKojic, M., and K. J. Bathe.\
-  \ \u201C[The 'Effective-Stress-Function' Algorithm for Thermo-Elasto-Plasticity\
-  \ and Creep.](http://dx.doi.org/10.1002/nme.1620240808)\u201D _International Journal\
-  \ for Numerical Methods in Engineering_ 24 (August 1987): 1509-1532.\n\nKojic, M.,\
-  \ and K. J. Bathe. \u201C[Thermo-Elastic-Plastic and Creep Analysis of Shell Structures.](http://dx.doi.org/10.1016/0045-7949(87)90243-4)\u201D\
-  \ _Computers & Structures_ 26 (1987): 135-143.\n\nEterovic, A. L., and K. J. Bathe.\
-  \ \u201C[A Hyperelastic-Based Large Strain Elasto-Plastic Constitutive Formulation\
-  \ with Combined Isotropic-Kinematic Hardening Using the Logarithmic Stress and Strain\
-  \ Measures.](http://dx.doi.org/10.1002/nme.1620300602)\u201D _International Journal\
-  \ for Numerical Methods in Engineering_ 30 (October 20, 1990): 1099-1114.\n\nMontans,\
-  \ F. J., and K. J. Bathe. \u201C[Computational Issues in Large Strain Elasto-Plasticity:\
-  \ An Algorithm for Mixed Hardening and Plastic Spin.](http://dx.doi.org/10.1002/nme.1270)\u201D\
-  \ _International Journal for Numerical Methods in Engineering_ 63 (May 14, 2005):\
-  \ 159-196."
+  \ K. J. Bathe. \u201C{{% resource_link \"cae21146-7780-471a-b5a8-a8862e529e34\"\
+  \ \"A Solution Procedure for Thermo-Elastic-Plastic and Creep Problems.\" %}}\u201D\
+  \ _Nuclear Engineering and Design_ 64 (March 1981): 49-80.\n\nRammerstorfer, F.\
+  \ G., et al. \u201C{{% resource_link \"665df9cb-9b1c-4ec9-b66c-2ebd07d780bb\" \"\
+  On Thermo-Elastic-Plastic Analysis of Heat-Treatment Processes Including Creep and\
+  \ Phase Changes.\" %}}\u201D _Computers & Structures_ 13 (October-December 1981):\
+  \ 771-779.\n\nKojic, M., and K. J. Bathe. \u201C{{% resource_link \"f9cdc1f2-9671-41a7-a444-8bc64e76e486\"\
+  \ \"The 'Effective-Stress-Function' Algorithm for Thermo-Elasto-Plasticity and Creep.\"\
+  \ %}}\u201D _International Journal for Numerical Methods in Engineering_ 24 (August\
+  \ 1987): 1509-1532.\n\nKojic, M., and K. J. Bathe. \u201C{{% resource_link \"3dc82c99-979a-4c71-b502-aba74d8d8228\"\
+  \ \"Thermo-Elastic-Plastic and Creep Analysis of Shell Structures.\" %}}\u201D _Computers\
+  \ & Structures_ 26 (1987): 135-143.\n\nEterovic, A. L., and K. J. Bathe. \u201C\
+  {{% resource_link \"81067ce9-1c07-4d65-a782-148cb5393969\" \"A Hyperelastic-Based\
+  \ Large Strain Elasto-Plastic Constitutive Formulation with Combined Isotropic-Kinematic\
+  \ Hardening Using the Logarithmic Stress and Strain Measures.\" %}}\u201D _International\
+  \ Journal for Numerical Methods in Engineering_ 30 (October 20, 1990): 1099-1114.\n\
+  \nMontans, F. J., and K. J. Bathe. \u201C{{% resource_link \"a78365a7-6439-4520-8d85-2d5da1138b10\"\
+  \ \"Computational Issues in Large Strain Elasto-Plasticity: An Algorithm for Mixed\
+  \ Hardening and Plastic Spin.\" %}}\u201D _International Journal for Numerical Methods\
+  \ in Engineering_ 63 (May 14, 2005): 159-196."
 resource_index_text: ''
 resourcetype: Video
 start_time: ''

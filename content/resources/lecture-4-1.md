@@ -13,11 +13,12 @@ parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
 related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec04-1))\n\
   \n**Readings**\n\nSections 6.2.3, 6.2.4\n\n**References**\n\nBathe, K. J., E. Ramm,\
-  \ and E. L. Wilson. \u201C[Finite Element Formulations for Large Deformation Dynamic\
-  \ Analysis.](http://dx.doi.org/10.1002/nme.1620090207)\u201D _International Journal\
-  \ for Numerical Methods in Engineering_ 9 (1975): 353-386.\n\nBathe, K. J., and\
-  \ H. Ozdemir. \u201C[Elastic-Plastic Large Deformation Static and Dynamic Analysis.](http://dx.doi.org/10.1016/0045-7949(76)90056-0)\u201D\
-  \ _Computers & Structures_ 6 (April 1976): 81-92."
+  \ and E. L. Wilson. \u201C{{% resource_link \"87d711a8-76c3-4d81-96f0-9b7f95c2562e\"\
+  \ \"Finite Element Formulations for Large Deformation Dynamic Analysis.\" %}}\u201D\
+  \ _International Journal for Numerical Methods in Engineering_ 9 (1975): 353-386.\n\
+  \nBathe, K. J., and H. Ozdemir. \u201C{{% resource_link \"5cef3ed6-2694-4aae-8b87-916843f46bcf\"\
+  \ \"Elastic-Plastic Large Deformation Static and Dynamic Analysis.\" %}}\u201D _Computers\
+  \ & Structures_ 6 (April 1976): 81-92."
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
