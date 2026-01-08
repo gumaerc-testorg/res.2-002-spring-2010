@@ -13,10 +13,9 @@ parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
 related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec10-1))\n\
   \n**Readings**\n\nSections 6.1, 8.4\n\n**Examples**\n\nProblems 6.1-6.4, 8.23, 8.24\n\
-  \n**References**\n\nBathe, K. J., and A. P. Cimento. \u201C{{% resource_link \"\
-  c9defc3b-06e9-4013-bf3e-4bd16f18d378\" \"Some Practical Procedures for the Solution\
-  \ of Nonlinear Finite Element Equations.\" %}}\u201D _Computer Methods In Applied\
-  \ Mechanics and Engineering_ 22 (April 1980): 59-85."
+  \n**References**\n\nBathe, K. J., and A. P. Cimento. \u201C[Some Practical Procedures\
+  \ for the Solution of Nonlinear Finite Element Equations.](http://dx.doi.org/10.1016/0045-7825(80)90051-1)\u201D\
+  \ _Computer Methods In Applied Mechanics and Engineering_ 22 (April 1980): 59-85."
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
