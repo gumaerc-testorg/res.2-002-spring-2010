@@ -12,14 +12,12 @@ optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
 related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec22))\n\
-  \n**References**\n\nBathe, K. J. \u201C{{% resource_link \"0a62934b-33fa-4fcb-bbd8-86de49c11163\"\
-  \ \"Finite Elements in CAD and ADINA.\" %}}\u201D _Nuclear Engineering and Design_\
-  \ 98 (December 1986): 57-67.\n\nUser Manuals, Verification Manual, and Theory and\
-  \ Modeling Guide for ADINA, see {{% resource_link \"0fbe962b-6c12-49aa-a99a-8f8e74cc24a0\"\
-  \ \"www.adina.com\" %}}\n\nBathe, K. J., and A. Chaudhary. \u201C{{% resource_link\
-  \ \"be2b7d75-9d1b-43dd-a137-814752a95ba3\" \"A Solution Method for Planar and Axisymmetric\
-  \ Contact Problems.\" %}}\u201D _International Journal for Numerical Methods in\
-  \ Engineering_ 21 (January 1985): 65-88."
+  \n**References**\n\nBathe, K. J. \u201C[Finite Elements in CAD and ADINA.](http://dx.doi.org/10.1016/0029-5493(86)90120-2)\u201D\
+  \ _Nuclear Engineering and Design_ 98 (December 1986): 57-67.\n\nUser Manuals, Verification\
+  \ Manual, and Theory and Modeling Guide for ADINA, see [www.adina.com](http://www.adina.com)\n\
+  \nBathe, K. J., and A. Chaudhary. \u201C[A Solution Method for Planar and Axisymmetric\
+  \ Contact Problems.](http://dx.doi.org/10.1002/nme.1620210107)\u201D _International\
+  \ Journal for Numerical Methods in Engineering_ 21 (January 1985): 65-88."
 resource_index_text: ''
 resourcetype: Video
 start_time: ''

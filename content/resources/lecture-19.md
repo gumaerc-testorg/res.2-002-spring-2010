@@ -13,36 +13,32 @@ parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
 related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec19))\n\
   \n**Readings**\n\nSection 6.5\n\n**Examples**\n\nProblems 6.20, 6.21\n\n**References**\n\
-  \nBathe, K. J., and S. Bolourchi. \u201C{{% resource_link \"1ebc52cf-8721-4c0e-b1bf-aef34c70ce40\"\
-  \ \"A Geometric and Material Nonlinear Plate and Shell Element.\" %}}\u201D _Computers\
+  \nBathe, K. J., and S. Bolourchi. \u201C[A Geometric and Material Nonlinear Plate\
+  \ and Shell Element.](http://dx.doi.org/10.1016/0045-7949(80)90144-3)\u201D _Computers\
   \ & Structures_ 11 (February 1980): 23-48.\n\nBathe, K. J., and S. Bolourchi. \u201C\
-  {{% resource_link \"5746b25f-ee57-4f8a-adb2-1c9fbd813daa\" \"Large Displacement\
-  \ Analysis of Three-Dimensional Beam Structures.\" %}}\u201D _International Journal\
-  \ for Numerical Methods in Engineering_ 14 (1979): 961-986.\n\nBathe, K. J., E.\
-  \ Dvorkin, and L. W. Ho. \u201C{{% resource_link \"d1e1be9c-1360-4de0-95bd-f23a6a9e2409\"\
-  \ \"Our Discrete Kirchhoff and Isoparametric Shell Elements for Nonlinear Analysis:\
-  \ An Assessment.\" %}}\u201D _Computers & Structures_ 16 (1983): 89-98.\n\nBathe,\
-  \ K. J., and L. W. Ho. \u201C{{% resource_link \"264b6a01-0174-4850-9680-b31cfc9dbc4e\"\
-  \ \"A Simple and Effective Element for Analysis of General Shell Structures.\" %}}\u201D\
+  [Large Displacement Analysis of Three-Dimensional Beam Structures.](http://dx.doi.org/10.1002/nme.1620140703)\u201D\
+  \ _International Journal for Numerical Methods in Engineering_ 14 (1979): 961-986.\n\
+  \nBathe, K. J., E. Dvorkin, and L. W. Ho. \u201C[Our Discrete Kirchhoff and Isoparametric\
+  \ Shell Elements for Nonlinear Analysis: An Assessment.](http://dx.doi.org/10.1016/0045-7949(83)90150-5)\u201D\
+  \ _Computers & Structures_ 16 (1983): 89-98.\n\nBathe, K. J., and L. W. Ho. \u201C\
+  [A Simple and Effective Element for Analysis of General Shell Structures.](http://dx.doi.org/10.1016/0045-7949(81)90029-8)\u201D\
   \ _Computers & Structures_ 13 (October-December 1981): 673-681.\n\nDvorkin, E.,\
-  \ and K. J. Bathe. \u201C{{% resource_link \"0898984d-311a-46b9-9897-24767fae6b8a\"\
-  \ \"A Continuum Mechanics-Based Four-Node Shell Element for General Nonlinear Analysis.\"\
-  \ %}}\u201D _Engineering Computations_ 1 (1984): 77-88.\n\nBathe, K. J., and P.\
-  \ M. Wiener. \u201C{{% resource_link \"2aaf9886-76ca-4a04-a406-66831d1deecc\" \"\
-  On Elastic-Plastic Analysis of I-Beams in Bending and Torsion.\" %}}\u201D _Computers\
-  \ & Structures_ 17 (1983): 711-718.\n\nBathe, K. J., and E. Dvorkin. \u201C{{% resource_link\
-  \ \"88584194-aec1-4eb3-ad58-6a6e8939dd1f\" \"A Four-Node Plate Bending Element Based\
-  \ on Mindlin/Reissner Plate Theory and a Mixed Interpolation.\" %}}\u201D _International\
+  \ and K. J. Bathe. \u201C[A Continuum Mechanics-Based Four-Node Shell Element for\
+  \ General Nonlinear Analysis.](http://dx.doi.org/10.1108/eb023562)\u201D _Engineering\
+  \ Computations_ 1 (1984): 77-88.\n\nBathe, K. J., and P. M. Wiener. \u201C[On Elastic-Plastic\
+  \ Analysis of I-Beams in Bending and Torsion.](http://dx.doi.org/10.1016/0045-7949(83)90085-8)\u201D\
+  \ _Computers & Structures_ 17 (1983): 711-718.\n\nBathe, K. J., and E. Dvorkin.\
+  \ \u201C[A Four-Node Plate Bending Element Based on Mindlin/Reissner Plate Theory\
+  \ and a Mixed Interpolation.](http://dx.doi.org/10.1002/nme.1620210213)\u201D _International\
   \ Journal for Numerical Methods in Engineering_ 21 (February 1985): 367-383.\n\n\
-  Bathe, K. J., and E. Dvorkin. \u201C{{% resource_link \"f76673b2-15a3-4cf9-8637-e3a27af785fc\"\
-  \ \"A Formulation of General Shell Elements: The Use of Mixed Interpolation of Tensorial\
-  \ Components.\" %}}\u201D _International Journal for Numerical Methods in Engineering_\
-  \ 22 (March 1986): 687-722.\n\nLee, P.S., and K. J. Bathe. \u201C{{% resource_link\
-  \ \"acd209ff-50d6-41a0-a726-a716cdc6692a\" \"Development of MITC Isotropic Triangular\
-  \ Shell Finite Elements.\" %}}\u201D _Computers & Structures_ 82 (May 2004): 945-962.\n\
-  \nBathe, K. J., and P. S. Lee. \u201C{{% resource_link \"16a9222c-31c7-44f9-bc59-df3a4f1d82f4\"\
-  \ \"Measuring the Convergence Behavior of Shell Analysis Schemes.\" %}}\u201D _Computers\
-  \ & Structures_ 89 (February 2011): 285-301."
+  Bathe, K. J., and E. Dvorkin. \u201C[A Formulation of General Shell Elements: The\
+  \ Use of Mixed Interpolation of Tensorial Components.](http://dx.doi.org/10.1002/nme.1620220312)\u201D\
+  \ _International Journal for Numerical Methods in Engineering_ 22 (March 1986):\
+  \ 687-722.\n\nLee, P.S., and K. J. Bathe. \u201C[Development of MITC Isotropic Triangular\
+  \ Shell Finite Elements.](http://dx.doi.org/10.1016/j.compstruc.2004.02.004)\u201D\
+  \ _Computers & Structures_ 82 (May 2004): 945-962.\n\nBathe, K. J., and P. S. Lee.\
+  \ \u201C[Measuring the Convergence Behavior of Shell Analysis Schemes.](http://dx.doi.org/10.1016/j.compstruc.2010.09.007)\u201D\
+  \ _Computers & Structures_ 89 (February 2011): 285-301."
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
